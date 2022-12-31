@@ -1,16 +1,6 @@
-# scroll_animation
+# Scroll Animation
 
-A new Flutter project.
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:ugcPost:7014934951745720320/
 
-## Getting Started
+https://user-images.githubusercontent.com/80829856/210136118-3a6d8d7c-bdfc-43fc-8340-c81f107efcd1.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
